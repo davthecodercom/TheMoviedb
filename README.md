@@ -12,10 +12,10 @@ This repo is not in BLOCK pattern yet as I want to keep it really simple, but it
 
 App in iOS:
 
-![TheMovieDB iOS App](https://media.tenor.com/images/cde621e45dcabb418502bf3f70c865cc/tenor.gif)
+![](https://media.tenor.com/images/cde621e45dcabb418502bf3f70c865cc/tenor.gif)
 
 App in Android:
 
-![TheMovieDB Android App](https://media.tenor.com/images/db72da67024c7c909dc750dc71550b27/tenor.gif)
+![](https://media.tenor.com/images/db72da67024c7c909dc750dc71550b27/tenor.gif)
 
 ##### Copyright 2019 - [David Cruz UK](https://github.com/DavidCruzUK)
