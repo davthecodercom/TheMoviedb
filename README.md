@@ -1,16 +1,22 @@
-# themoviedb_flutter
+# TheMoviedb Flutter app
 
-A new Flutter project.
+This repository is an app demo of how consuming TheMoviedb API in to a flutter App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The directly consume TheMoviedb API the most popular movies list in to a GridTile, 
+and on every movie poster click its open a detail view of the movie where you can see details like
+trailers, average votes, release date and description.
 
-A few resources to get you started if this is your first Flutter project:
+This repo is not in BLOCK pattern yet as I want to keep it really simple, but it will be soon.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+App in iOS:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](https://media.tenor.com/images/cde621e45dcabb418502bf3f70c865cc/tenor.gif)
+
+
+- App in Android:
+
+-![](https://media.tenor.com/images/db72da67024c7c909dc750dc71550b27/tenor.gif)
+
+##### Copyright 2019 - [David Cruz UK](https://github.com/DavidCruzUK)
