@@ -2,6 +2,12 @@
 
 This repository is an app demo of how consuming TheMoviedb API in to a flutter App
 
+## Dependencies:
+
+  - http: [^0.12.0+2](https://pub.dev/packages/http/versions/0.12.0+2)
+  
+  - url_launcher: [^5.2.5](https://pub.dev/packages/url_launcher/versions/5.2.5)
+
 ## Getting Started
 
 The directly consume TheMoviedb API the most popular movies list in to a GridTile, 
