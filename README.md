@@ -12,10 +12,10 @@ This repo is not in BLOCK pattern yet as I want to keep it really simple, but it
 
 App in iOS:
 
-![TheMovieDB iOS App](ios-app.gif)
+![TheMovieDB iOS App](web/ios-app.gif)
 
 App in Android:
 
-![TheMovieDB Android App](android-app.gif)
+![TheMovieDB Android App](web/android-app.gif)
 
 ##### Copyright 2019 - [David Cruz UK](https://github.com/DavidCruzUK)
